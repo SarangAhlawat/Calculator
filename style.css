@@ -55,3 +55,7 @@ body{
 .eql:hover{
     background-color: green;
 }
+
+#hide{
+    display: none;
+}
