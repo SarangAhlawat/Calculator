@@ -1,2 +1,2 @@
 # Calculator
-a basic calculator as a project
+## A basic calculator as a project
