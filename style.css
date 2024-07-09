@@ -46,6 +46,8 @@ body{
     background-color: rgb(17, 16, 27);
 }
 
+ 
+/* on hover over these button color will be changed according to functionality */
 .ac:hover{
     background-color: red;
 }
@@ -56,6 +58,7 @@ body{
     background-color: green;
 }
 
+/* hidden pop up message untill called in JavaScript file */
 #hide{
     display: none;
 }
